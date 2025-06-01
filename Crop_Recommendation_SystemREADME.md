@@ -1,7 +1,7 @@
-##🌾 Crop Recommendation System Using Machine Learning #
+## 🌾 Crop Recommendation System Using Machine Learning
 This project implements a robust crop recommendation engine using supervised machine learning algorithms. Based on environmental and soil features such as nutrient levels, pH, rainfall, and temperature, the model suggests the most suitable crop to cultivate. Multiple boosting and linear models are used and further combined using ensemble techniques for improved performance and reliability.
 
-##📌 Project Highlights
+## 📌 Project Highlights
 Recommends the best crop to grow based on soil and climatic conditions
 
 ## Implements a diverse set of models:
